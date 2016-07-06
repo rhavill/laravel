@@ -33,7 +33,11 @@ package.json
 phpunit.xml
 /public
 readme.md
-/resources
+/resources/assets
+/resources/lang
+/resources/views/errors
+/resources/views/vendor
+/resources/views/welcome.blade.php
 server.php
 /storage
 /tests

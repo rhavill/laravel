@@ -1,0 +1,1 @@
+<!-- resources/views/common/errors.blade.php -->
