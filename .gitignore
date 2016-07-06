@@ -5,7 +5,18 @@ Homestead.yaml
 Homestead.json
 .env
 
-/app
+/app/Console
+/app/Events
+/app/Exceptions
+/app/Http/Controllers
+/app/Http/Kernel.php
+/app/Http/Middleware
+/app/Http/Requests
+/app/Jobs
+/app/Listeners
+/app/Policies
+/app/Providers
+/app/*.php
 /artisan
 .env.example
 .gitattributes
