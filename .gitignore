@@ -12,7 +12,11 @@ Homestead.json
 /bootstrap
 composer.*
 /config
-/database
+/database/.gitignore
+/database/factories
+/database/migrations/.gitkeep
+/database/migrations/2014*
+/database/seeds
 gulpfile.js
 package.json
 phpunit.xml
