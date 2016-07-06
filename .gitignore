@@ -16,7 +16,7 @@ Homestead.json
 /app/Listeners
 /app/Policies
 /app/Providers
-/app/*.php
+/app/User.php
 /artisan
 .env.example
 .gitattributes
